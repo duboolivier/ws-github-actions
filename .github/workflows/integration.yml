@@ -15,7 +15,6 @@ jobs:
           image: ghcr.io/epitech/coding-style-checker:lastet
 
       steps:
-
           - name: Chekout GH repo
            uses: actions/checkout@v4
 
